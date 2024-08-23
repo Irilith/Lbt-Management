@@ -2,6 +2,12 @@
 
 _**Lbt**_ stands for Library BitTorrent, _**Lbt**_ also may stands for Liberty. This tool was developed for personal use and may not function as expected for other person (you).
 
+## What it do
+
+The tool will rename parent folder where you put your ebook
+for example, when you download a torrent, with folder (subfolder in qbit) it will be similar to this: `Title [Publisher] [Uploader]`, usually i have to rename to `Title` only to keep the directory organization, but, im lazy to do it everytime so, i make this
+its will turn `Title [Publisher] [Uploader]` to `Title`, but the file will remain the Publisher and Uploader
+
 ## Support
 
 | Software     |
