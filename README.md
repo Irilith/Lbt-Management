@@ -38,4 +38,5 @@ its will turn `Title [Publisher] [Uploader]` to `Title`, but the file will remai
 
 
 ## Usage
+Copy the `.env.example` to bin and rename it to `.env` and configure it then
 `./bin/LbtM`
